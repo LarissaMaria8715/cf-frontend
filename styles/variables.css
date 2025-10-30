@@ -1,0 +1,23 @@
+:root {
+  --preto: #000000;
+  --roxo-escuro: #43123f; 
+  --marrom-escuro: #301c1d;
+  --magenta: #a60165;
+  --vermelho: #b31500;
+  --verde-lima: #c4c600;
+  --laranja: #ec940c;
+  --off-white: #eee9da;
+
+  
+  --font-titulo: 'Playfair Display', serif;
+  --font-subtitulo1: 'Cabin', sans-serif;
+  --font-subtitulo2: 'Bitter', serif;
+  --font-subtitulo3: 'Cairo', sans-serif;
+  --font-texto: 'Bricolage Grotesque', sans-serif;
+
+  --size-titulo: 48px;
+  --size-subtitulo1: 32px;
+  --size-subtitulo2: 28px;
+  --size-subtitulo3: 24px;
+  --size-texto: 16px;
+}
