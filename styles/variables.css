@@ -1,5 +1,5 @@
 :root {
-  --preto: #000000;
+  --preto-fundo: #000000;
   --roxo-escuro: #43123f; 
   --marrom-escuro: #301c1d;
   --magenta: #a60165;
@@ -14,6 +14,7 @@
   --font-subtitulo2: 'Bitter', serif;
   --font-subtitulo3: 'Cairo', sans-serif;
   --font-texto: 'Bricolage Grotesque', sans-serif;
+
 
   --size-titulo: 48px;
   --size-subtitulo1: 32px;
